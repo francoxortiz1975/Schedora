@@ -69,8 +69,8 @@ No manual data entry. No overwhelming to-do lists. Just upload and go.
   </tr>
   <tr>
     <td><img src="Documentation/screenshots/dashboard.jpeg" width="200"/></td>
-    <td><img src="Documentation/screenshots/tasks_today.jpeg" width="200"/></td>
-    <td><img src="Documentation/screenshots/tasks_week.jpeg" width="200"/></td>
+    <td><img src="Documentation/screenshots/task_today.jpeg" width="200"/></td>
+    <td><img src="Documentation/screenshots/task_week.jpeg" width="200"/></td>
     <td><img src="Documentation/screenshots/pdf_upload.jpeg" width="200"/></td>
   </tr>
 </table>
