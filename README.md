@@ -68,10 +68,10 @@ No manual data entry. No overwhelming to-do lists. Just upload and go.
     <td align="center"><b>PDF Upload</b></td>
   </tr>
   <tr>
-    <td><img src="Documentation/screenshots/dashboard.png" width="200"/></td>
-    <td><img src="Documentation/screenshots/tasks_today.png" width="200"/></td>
-    <td><img src="Documentation/screenshots/tasks_week.png" width="200"/></td>
-    <td><img src="Documentation/screenshots/pdf_upload.png" width="200"/></td>
+    <td><img src="Documentation/screenshots/dashboard.jpeg" width="200"/></td>
+    <td><img src="Documentation/screenshots/tasks_today.jpeg" width="200"/></td>
+    <td><img src="Documentation/screenshots/tasks_week.jpeg" width="200"/></td>
+    <td><img src="Documentation/screenshots/pdf_upload.jpeg" width="200"/></td>
   </tr>
 </table>
 </div>
